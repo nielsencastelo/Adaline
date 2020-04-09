@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1461699631 source:d:\c++\adaline\main.cpp
+	"Adaline.hpp"
+	<cstdlib>
+
+1461689500 d:\c++\adaline\perceptron.h
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1461696084 source:d:\c++\adaline\perceptron.cpp
+	"Perceptron.h"
+
+1461695814 d:\c++\ncdd++\algebra.hpp
+	<iostream>
+
+1465997601 d:\c++\adaline\adaline.hpp
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<iostream>
+
+1465997525 source:d:\c++\adaline\adaline.cpp
+	"Adaline.hpp"
+
